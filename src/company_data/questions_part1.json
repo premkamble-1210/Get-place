@@ -1,0 +1,362 @@
+[
+    {
+        "question_number": 1,
+        "question": "The average age of 8 men increases by 2 years when two women are included in place of two men of ages 20 and 24 years. Find the average age of the women?",
+        "options": {
+            "A": "18 years",
+            "B": "24 years",
+            "C": "30 years",
+            "D": "36 years"
+        },
+        "answer": {
+            "key": "C",
+            "text": "30 years"
+        },
+        "explanation": "20 + 24 + 8 * 2 = 60/2 = 30"
+    },
+    {
+        "question_number": 2,
+        "question": "Mohan correctly remembers that his father's birthday is before 20th January but after 16th January, whereas his sister correctly remembers that their father's birthday is after 18th January but before 23rd January. On which date in January is definitely their father's birthday?",
+        "options": {
+            "A": "18th",
+            "B": "19th",
+            "C": "20th",
+            "D": "Missing data"
+        },
+        "answer": {
+            "key": "B",
+            "text": "19th"
+        },
+        "explanation": "According to Mohan 17th, 18th, or 19th ...(i)"
+    },
+    {
+        "question_number": 3,
+        "question": "The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:",
+        "options": {
+            "A": "35 years",
+            "B": "40 years",
+            "C": "45 years",
+            "D": "55 years"
+        },
+        "answer": {
+            "key": "B",
+            "text": "40 years"
+        },
+        "explanation": "Sum of the present ages of husband, wife and child = (27 * 3 + 3 * 3) years = 90 years."
+    },
+    {
+        "question_number": 4,
+        "question": "A is 2 years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+        "options": {
+            "A": "7 years",
+            "B": "8 years",
+            "C": "9 years",
+            "D": "10 years"
+        },
+        "answer": {
+            "key": "D",
+            "text": "10 years"
+        },
+        "explanation": "Let C's age be x years"
+    },
+    {
+        "question_number": 5,
+        "question": "The ratio between the school ages of Pratosh and Satheesh is 5:6 respectively. If the ratio between the one-third age of Pratosh and half of Satheesh's age of 5:9, then what is the school age of Satheesh?",
+        "options": {
+            "A": "25 years",
+            "B": "30 years",
+            "C": "36 years",
+            "D": "Cannot be determined"
+        },
+        "answer": {
+            "key": "D",
+            "text": "Cannot be determined"
+        },
+        "explanation": "Let the school ages of Neelam and Shaan be 5x and 6x years respectively."
+    },
+    {
+        "question_number": 6,
+        "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old id the mother at present?",
+        "options": {
+            "A": "32 years",
+            "B": "36 years",
+            "C": "40 years",
+            "D": "48 years"
+        },
+        "answer": {
+            "key": "C",
+            "text": "40 years"
+        },
+        "explanation": "Let the mother's present age be x years. Then, the person's present age = 2/5 x years."
+    },
+    {
+        "question_number": 7,
+        "question": "The total age of A and B is 12 years more than the total age of B and C. C is how many years younger than A?",
+        "options": {
+            "A": "12",
+            "B": "24",
+            "C": "C is elder than A",
+            "D": "Data inadequate"
+        },
+        "answer": {
+            "key": "A",
+            "text": "12"
+        },
+        "explanation": "(A + B) - (B + C) = 12"
+    },
+    {
+        "question_number": 8,
+        "question": "A father said to his son, 'I was as old as you are at present at the time of your birth.' If the father's age is 38 years now, the son's age five years back was:",
+        "options": {
+            "A": "14 years",
+            "B": "19 years",
+            "C": "33 years",
+            "D": "38 years"
+        },
+        "answer": {
+            "key": "A",
+            "text": "14 years"
+        },
+        "explanation": "Let the son's present age be x years."
+    },
+    {
+        "question_number": 9,
+        "question": "A person was asked to state his age in years. His reply was, 'Take my age three years hence, multiply it by 3 and then subtract three times my age three years ago and you will know how old I am.' What was the age of the person?",
+        "options": {
+            "A": "18 years",
+            "B": "20 years",
+            "C": "24 years",
+            "D": "32 years"
+        },
+        "answer": {
+            "key": "A",
+            "text": "18 years"
+        },
+        "explanation": "Let the present age of the person be x years."
+    },
+    {
+        "question_number": 10,
+        "question": "The sum of the ages of a son and father is 56 years after four years the age of the father will be three times that of the son. Their ages respectively are:",
+        "options": {
+            "A": "12 years, 44 years",
+            "B": "16 years, 42 years",
+            "C": "16 years, 48 years",
+            "D": "18 years, 36 years"
+        },
+        "answer": {
+            "key": "A",
+            "text": "12 years, 44 years"
+        },
+        "explanation": "Present ages of son and father be x years (56 -x)years"
+    },
+    {
+        "question_number": 11,
+        "question": "A batsman in his 17th innings makes a score of 85 and their by increasing his average by 3. What is his average after the 17th innings?",
+        "options": {
+            "A": "34",
+            "B": "35",
+            "C": "36",
+            "D": "37"
+        },
+        "answer": {
+            "key": "D",
+            "text": "37"
+        },
+        "explanation": "16x + 85 = 17(x + 3)"
+    },
+    {
+        "question_number": 12,
+        "question": "The average of first 10 natural numbers is?",
+        "options": {
+            "A": "5",
+            "B": "5.5",
+            "C": "6",
+            "D": "6.5"
+        },
+        "answer": {
+            "key": "B",
+            "text": "5.5"
+        },
+        "explanation": "Sum of 10 natural no. = 110/2 = 55"
+    },
+    {
+        "question_number": 13,
+        "question": "The average age of three boys is 15 years and their ages are in proportion 3:5:7. What is the age in years of the youngest boy?",
+        "options": {
+            "A": "9",
+            "B": "12",
+            "C": "15",
+            "D": "18"
+        },
+        "answer": {
+            "key": "A",
+            "text": "9"
+        },
+        "explanation": "3x + 5x + 7x = 45"
+    },
+    {
+        "question_number": 14,
+        "question": "The average of 9 observations was 9, that of the 1st of 5 being 10 and that of the last 5 being 8. What was the 5th observation?",
+        "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+        },
+        "answer": {
+            "key": "D",
+            "text": "9"
+        },
+        "explanation": "1 to 9 = 9 * 9 = 81"
+    },
+    {
+        "question_number": 15,
+        "question": "A team of eight entered for a shooting competition. The best marks man scored 85 points. If he had scored 92 points, the average scores for. The team would have been 84. How many points altogether did the team score?",
+        "options": {
+            "A": "625",
+            "B": "632",
+            "C": "656",
+            "D": "665"
+        },
+        "answer": {
+            "key": "D",
+            "text": "665"
+        },
+        "explanation": "8 * 84 = 672 - 7 = 665"
+    },
+    {
+        "question_number": 16,
+        "question": "A batsman makes a score of 64 runs in the 16th innings and thus increased his average by 3. Find his average after the 16th inning?",
+        "options": {
+            "A": "17",
+            "B": "18",
+            "C": "19",
+            "D": "20"
+        },
+        "answer": {
+            "key": "C",
+            "text": "19"
+        },
+        "explanation": "Let the average after the 16th inning be P."
+    },
+    {
+        "question_number": 17,
+        "question": "The average of 10 numbers is 23. If each number is increased by 4, what will the new average be?",
+        "options": {
+            "A": "23",
+            "B": "25",
+            "C": "27",
+            "D": "29"
+        },
+        "answer": {
+            "key": "C",
+            "text": "27"
+        },
+        "explanation": "Sum of the 10 numbers = 230"
+    },
+    {
+        "question_number": 18,
+        "question": "Find the average of the series : 312, 162, 132, 142 and 122?",
+        "options": {
+            "A": "162",
+            "B": "174",
+            "C": "186",
+            "D": "198"
+        },
+        "answer": {
+            "key": "B",
+            "text": "174"
+        },
+        "explanation": "(312 + 162 + 132 + 142 + 122)/5 = 870/5 = 174"
+    },
+    {
+        "question_number": 19,
+        "question": "In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+        "options": {
+            "A": "5.75",
+            "B": "6.25",
+            "C": "6.75",
+            "D": "7.25"
+        },
+        "answer": {
+            "key": "B",
+            "text": "6.25"
+        },
+        "explanation": "Required run rate = 282 - (3.2 * 10) / 40 = 250 / 40 = 6.25"
+    },
+    {
+        "question_number": 20,
+        "question": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+        "options": {
+            "A": "75 kgs",
+            "B": "80 kgs",
+            "C": "85 kgs",
+            "D": "Data inadequate"
+        },
+        "answer": {
+            "key": "C",
+            "text": "85 kgs"
+        },
+        "explanation": "Total weight increased = (8 * 2.5) kg = 20 kgs"
+    },
+    {
+        "question_number": 22,
+        "question": "CMM, EOO, GQQ, _____, KUU",
+        "options": {
+            "A": "GRR",
+            "B": "GSS",
+            "C": "ISS",
+            "D": "ITT"
+        },
+        "answer": {
+            "key": "C",
+            "text": "ISS"
+        },
+        "explanation": "The first letters are in alphabetical order with a letter skipped in between each segment: C, E, G, I, K. The second and third letters are repeated; they are also in order with a skipped letter: M, O, Q, S, U."
+    },
+    {
+        "question_number": 23,
+        "question": "ELFA, GLHA, ILJA, _____, MLNA",
+        "options": {
+            "A": "KLLA",
+            "B": "KLMA",
+            "C": "LLMA",
+            "D": "OLPA"
+        },
+        "answer": {
+            "key": "A",
+            "text": "KLLA"
+        },
+        "explanation": "The second and forth letters in the series, L and A, are static. The first and third letters consist of an alphabetical order beginning with the letter E."
+    },
+    {
+        "question_number": 24,
+        "question": "FAG, GAF, HAI, IAH, ____",
+        "options": {
+            "A": "JAI",
+            "B": "JAK",
+            "C": "HAK",
+            "D": "HAL"
+        },
+        "answer": {
+            "key": "B",
+            "text": "JAK"
+        },
+        "explanation": "The middle letters are static, so concentrate on the first and third letters. The series involves an alphabetical order with a reversal of the letters. The first letters are in alphabetical order: F, G, H, I , J. The second and fourth segments are reversals of the first and third segments. The missing segment begins with a new letter."
+    },
+    {
+        "question_number": 25,
+        "question": "The number in the question below is to be codified in the following code.\nDigit: 5 3 7 1 4 9 6 2 8\nLetter: C J O X N Q T Z F\nFind the code for 163542",
+        "options": {
+            "A": "TXJCNZ",
+            "B": "XTCJNZ",
+            "C": "XTJCNZ",
+            "D": "XTJCZN"
+        },
+        "answer": {
+            "key": "C",
+            "text": "XTJCNZ"
+        },
+        "explanation": "As given 1 is coded as X, 6 is coded as T, 3 is coded as J, 5 is coded as C, 4 is coded as N and 2 is coded as Z. So 163542 is coded as XTJCNZ."
+    }
+]

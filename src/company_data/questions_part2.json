@@ -1,0 +1,377 @@
+[
+    {
+        "question_number": 26,
+        "question": "SCD, TEF, UGH, ____, WKL",
+        "options": {
+            "A": "CMN",
+            "B": "IJT",
+            "C": "UJI",
+            "D": "VIJ"
+        },
+        "answer": {
+            "key": "D",
+            "text": "VIJ"
+        },
+        "explanation": "There are two alphabetical series here. The first series is with the first letters only: STUVW. The second series involves the remaining letters: CD, EF, GH, IJ, KL."
+    },
+    {
+        "question_number": 27,
+        "question": "If 'P' means 'divison', 'T' means 'addition', 'M' means 'subtraction', and 'D' means 'multiplication', then what will be the value of the following expression?\n12 M 12 D 28 P 7 T 15 = ?",
+        "options": {
+            "A": "-30",
+            "B": "-21",
+            "C": "15",
+            "D": "45"
+        },
+        "answer": {
+            "key": "B",
+            "text": "-21"
+        },
+        "explanation": "12 - 12 * 28 / 7 + 15"
+    },
+    {
+        "question_number": 28,
+        "question": "In a certain language, if Violet is called as Green, Green is called as Red, Red is called as Brown, Brown is called as Orange, Orange is called as Yellow, Yellow is called as Blue and Blue is called as Indigo, then what is the colour of human blood in that language?",
+        "options": {
+            "A": "Blue",
+            "B": "Brown",
+            "C": "Red",
+            "D": "Violet"
+        },
+        "answer": {
+            "key": "B",
+            "text": "Brown"
+        },
+        "explanation": "Human blood is Red in colour and Red is called Brown in that language."
+    },
+    {
+        "question_number": 29,
+        "question": "If JOSEPH is coded as FKOALD, then GEORGE will be coded as:",
+        "options": {
+            "A": "CAKNCA",
+            "B": "CALNCA",
+            "C": "CBKNCA",
+            "D": "HAKNCA"
+        },
+        "answer": {
+            "key": "A",
+            "text": "CAKNCA"
+        },
+        "explanation": "Each letter of the word is moved four step back to decode it. So, GEORGE will be CAKNCA."
+    },
+    {
+        "question_number": 30,
+        "question": "In a code, CORNER is written as GSVRIV. How can CENTRAL be written in that code?",
+        "options": {
+            "A": "DFOUSBM",
+            "B": "GIRXVEP",
+            "C": "GJRYVEP",
+            "D": "GNFJKER"
+        },
+        "answer": {
+            "key": "B",
+            "text": "GIRXVEP"
+        },
+        "explanation": "Each letter of the word is moved four steps forward to obtain the code."
+    },
+    {
+        "question_number": 31,
+        "question": "How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",
+        "options": {
+            "A": "1480",
+            "B": "2520",
+            "C": "5040",
+            "D": "7020"
+        },
+        "answer": {
+            "key": "C",
+            "text": "5040"
+        },
+        "explanation": "The Word LOGARITHMS contain 10 letters."
+    },
+    {
+        "question_number": 32,
+        "question": "A delegation of 5 members has to be formed from 3 ladies and 5 gentlemen. In how many ways the delegation can be formed, if 2 particular ladies are always included in the delegation?",
+        "options": {
+            "A": "16",
+            "B": "20",
+            "C": "24",
+            "D": "28"
+        },
+        "answer": {
+            "key": "B",
+            "text": "20"
+        },
+        "explanation": "There are three ladies and five gentlemen and a committee of 5 members to be formed."
+    },
+    {
+        "question_number": 33,
+        "question": "How many 4 digit numbers can be formed using the digits (1, 3, 4, 5, 7, 9) when repetition of digits is not allowed?",
+        "options": {
+            "A": "300",
+            "B": "320",
+            "C": "340",
+            "D": "360"
+        },
+        "answer": {
+            "key": "D",
+            "text": "360"
+        },
+        "explanation": "The given digits are six."
+    },
+    {
+        "question_number": 34,
+        "question": "Using all the letters of the word 'THURSDAY', how many different words can be formed?",
+        "options": {
+            "A": "7",
+            "B": "7!",
+            "C": "8",
+            "D": "8!"
+        },
+        "answer": {
+            "key": "D",
+            "text": "8!"
+        },
+        "explanation": "Total number of letters = 8"
+    },
+    {
+        "question_number": 35,
+        "question": "There are 18 stations between Hyderabad and Bangalore. How many second class tickets have to be printed, so that a passenger can travel from any station to any other station?",
+        "options": {
+            "A": "280",
+            "B": "330",
+            "C": "380",
+            "D": "430"
+        },
+        "answer": {
+            "key": "C",
+            "text": "380"
+        },
+        "explanation": "The total number of stations = 20"
+    },
+    {
+        "question_number": 36,
+        "question": "The number of new words that can be formed by rearranging the letters of the word 'ALIVE' is:",
+        "options": {
+            "A": "117",
+            "B": "118",
+            "C": "119",
+            "D": "120"
+        },
+        "answer": {
+            "key": "C",
+            "text": "119"
+        },
+        "explanation": "Number of words which can be formed = 5! - 1 = 120 - 1 = 119"
+    },
+    {
+        "question_number": 37,
+        "question": "Six points are marked on a straight line and five points are marked on another line which is parallel to the first line. How many straight lines, including the first two, can be formed with these points?",
+        "options": {
+            "A": "30",
+            "B": "32",
+            "C": "34",
+            "D": "36"
+        },
+        "answer": {
+            "key": "B",
+            "text": "32"
+        },
+        "explanation": "We know that, the number of straight lines that can be formed by the 11 points in which 6 points are collinear except those that can be selected out of these 6 points are collinear."
+    },
+    {
+        "question_number": 38,
+        "question": "A selection is to be made for one post of principal and two posts of vice-principal amongst the six candidates called for the interview only two are eligible for the post of principal while they all are eligible for the post of vice-principal. The number of possible combinations of selectees is:",
+        "options": {
+            "A": "4",
+            "B": "12",
+            "C": "18",
+            "D": "20"
+        },
+        "answer": {
+            "key": "D",
+            "text": "20"
+        },
+        "explanation": "Total number of ways = 2C1 . 5C2 = 2 * 5!/3!2! = 2 * 10 = 20"
+    },
+    {
+        "question_number": 39,
+        "question": "In how many ways can the letters of the word 'LEADER' be arranged?",
+        "options": {
+            "A": "72",
+            "B": "144",
+            "C": "360",
+            "D": "720"
+        },
+        "answer": {
+            "key": "C",
+            "text": "360"
+        },
+        "explanation": "The word 'LEADER' contains 6 letters, namely 1L, 2E, 1A, 1D and 1R."
+    },
+    {
+        "question_number": 40,
+        "question": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+        "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+        },
+        "answer": {
+            "key": "D",
+            "text": "20"
+        },
+        "explanation": "Since each desired number is divisible by 5, so we must have 5 at the unit place. So, there is 1 way of doing it."
+    },
+    {
+        "question_number": 41,
+        "question": "Two pipes A and B can fill a cistern in 20 and 30 minutes respectively, and a third pipe C can empty it in 40 minutes. How long will it take to fill the cistern if all the 3 pipes are opened at the same time?",
+        "options": {
+            "A": "7 1/7 mins.",
+            "B": "15 1/7 mins.",
+            "C": "17 1/7 mins.",
+            "D": "19 1/7 mins."
+        },
+        "answer": {
+            "key": "B",
+            "text": "17 1/7 mins"
+        },
+        "explanation": "1/20 + 1/30 - 1/40 = 7/120"
+    },
+    {
+        "question_number": 42,
+        "question": "Two taps can separately fill a cistern 10 minutes and 15 minutes respectively and when the waste pipe is open, they can together fill it in 18 minutes. The waste pipe can empty the full cistern in?",
+        "options": {
+            "A": "7 mins.",
+            "B": "9 mins.",
+            "C": "13 mins.",
+            "D": "23 mins."
+        },
+        "answer": {
+            "key": "B",
+            "text": "9 mins"
+        },
+        "explanation": "1/10 + 1/15 - 1/x = 1/18"
+    },
+    {
+        "question_number": 43,
+        "question": "A cistern is normally filled in 8 hours but takes two hours longer to fill because of a leak in its bottom. If the cistern is full, the leak will empty it in?",
+        "options": {
+            "A": "16 hrs",
+            "B": "20 hrs",
+            "C": "25 hrs",
+            "D": "40 hrs"
+        },
+        "answer": {
+            "key": "D",
+            "text": "40 hrs"
+        },
+        "explanation": "1/8 - 1/x = 1/10"
+    },
+    {
+        "question_number": 44,
+        "question": "Two pipes can fill a tank in 18 minutes and 15 minutes. An outlet pipe can empty the tank in 45 minutes. If all the pipes are opened when the tank is empty, then how many minutes will it take to fill the tank?",
+        "options": {
+            "A": "9 mins.",
+            "B": "10 mins.",
+            "C": "11 mins.",
+            "D": "12 mins."
+        },
+        "answer": {
+            "key": "B",
+            "text": "10 mins"
+        },
+        "explanation": "Part of the filled by all the three pipes in one minute"
+    },
+    {
+        "question_number": 45,
+        "question": "Pipe A can fill a tank in 16 minutes and pipe B cam empty it in 24 minutes. If both the pipes are opened together after how many minutes should pipe B be closed, so that the tank is filled in 30 minutes?",
+        "options": {
+            "A": "19 mins.",
+            "B": "20 mins.",
+            "C": "21 mins.",
+            "D": "22 mins."
+        },
+        "answer": {
+            "key": "C",
+            "text": "21 mins"
+        },
+        "explanation": "Let the pipe B be closed after x minutes."
+    },
+    {
+        "question_number": 46,
+        "question": "Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes and 10 minutes respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P, Q and R respectively. What is the proportion of solution R in the liquid in the tank after 3 minutes?",
+        "options": {
+            "A": "5/11",
+            "B": "6/11",
+            "C": "7/11",
+            "D": "8/11"
+        },
+        "answer": {
+            "key": "B",
+            "text": "6/11"
+        },
+        "explanation": "Part filled by (A + B + C) in 3 minutes = 3(1/30 + 1/20 + 1/10) = 11/20"
+    },
+    {
+        "question_number": 47,
+        "question": "Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P,Q and R respectively. What is the proportion of the solution R in the liquid in the tank after 3 minutes?",
+        "options": {
+            "A": "5/11",
+            "B": "6/11",
+            "C": "7/11",
+            "D": "8/11"
+        },
+        "answer": {
+            "key": "B",
+            "text": "6/11"
+        },
+        "explanation": "Part filled by (A + B + C) in 3 minutes = 3 (1 / 30 + 1 / 20 + 1 / 10) = (3 * 11 / 60) = 11 / 20"
+    },
+    {
+        "question_number": 48,
+        "question": "Pipes A and B can fill a tank in 5 and 6 hours respectively. Pipe C can empty it in 12 hours. If all the three pipes are opened together, then the tank will be filled in:",
+        "options": {
+            "A": "1 13/17 hrs",
+            "B": "2 8/11 hrs",
+            "C": "3 9/17 hrs",
+            "D": "4 1/2 hrs"
+        },
+        "answer": {
+            "key": "C",
+            "text": "3 9/17 hrs"
+        },
+        "explanation": "Net part filled in 1 hour (1 / 5 + 1 / 6 - 1 / 12) = 17 / 60"
+    },
+    {
+        "question_number": 49,
+        "question": "A pump can fill a tank with water in 2 hours. Because of a leak, it took 2 1/3 hours to fill the tank. The leak can drain all the water of the tank in:",
+        "options": {
+            "A": "10 hrs",
+            "B": "12 hrs",
+            "C": "14 hrs",
+            "D": "16 hrs"
+        },
+        "answer": {
+            "key": "C",
+            "text": "14 hrs"
+        },
+        "explanation": "Work done by the leak in 1 hour = (1/2 - 3/7) = 1/14"
+    },
+    {
+        "question_number": 50,
+        "question": "Two pipes A and B can fill a cistern in 37 1/2 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the B is turned off after:",
+        "options": {
+            "A": "6 mins.",
+            "B": "9 mins.",
+            "C": "12 mins.",
+            "D": "15 mins."
+        },
+        "answer": {
+            "key": "B",
+            "text": "9 mins."
+        },
+        "explanation": "Let B be turned off after x minutes. Then,"
+    }
+]
