@@ -56,7 +56,34 @@ function Meeting() {
     }
   });
 };
+const handleUpload123 = async () => {
+  console.log('Fetching GD data...');
+  const gddataRef = ref(database, `GroupDiscussions/${id}`);
 
+  onValue(gddataRef, async (snapshot) => { // Make this function async
+    const data = snapshot.val();
+    if (data) {
+      console.log('GD data:', data);
+
+      if (!data.gdtopic) { // Check for empty gdtopic
+        const newTopic = await genratedGDtopic(); // ✅ Wait for the actual topic
+
+        if (newTopic) { // Ensure it's not undefined
+          console.log('Generated Topic: ---->', newTopic);
+
+          update(gddataRef, { gdtopic: newTopic })
+            .then(() => console.log('Topic added successfully'))
+            .catch((error) => console.error('Error updating topic:', error));
+        } else {
+          console.log('No topic generated');
+        }
+      } else {
+        console.log('Topic already exists');
+        setGDtopic(data.gdtopic);
+      }
+    }
+  });
+};
 const removeMemberFromSchedule = (memberToRemove) => {
   const membersRef = ref(database, `GroupDiscussions/${id}/Member`);
 
@@ -120,7 +147,7 @@ setGDtopic(res);
 
   useEffect(() => {
     fetchSchedules();
-    genratedGDtopic();
+    // genratedGDtopic();
   }, []); // Run only once on mount
 
   useEffect(() => {
