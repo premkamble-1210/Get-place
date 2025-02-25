@@ -147,6 +147,7 @@ setGDtopic(res);
 
   useEffect(() => {
     fetchSchedules();
+    handleUpload123();
     // genratedGDtopic();
   }, []); // Run only once on mount
 
